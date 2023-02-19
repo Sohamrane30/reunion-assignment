@@ -7983,22 +7983,6 @@ export const dummy = [
     movein_date: "11/30/2022",
     property_type: "house",
   },
-  {
-    id: 999,
-    property_name: "Alta Bass",
-    location: "Brazil",
-    price: "$8381.60",
-    movein_date: "8/1/2022",
-    property_type: "bungalow",
-  },
-  {
-    id: 1000,
-    property_name: "Lucius Sweedland",
-    location: "Serbia",
-    price: "$5793.40",
-    movein_date: "4/11/2022",
-    property_type: "villa",
-  },
 ];
 
 export const country_list = [
