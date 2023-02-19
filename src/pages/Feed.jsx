@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React from "react";
 import styled from "styled-components";
 import FeedItem from "../components/FeedItem";
 import Filter from "../components/Filter";
